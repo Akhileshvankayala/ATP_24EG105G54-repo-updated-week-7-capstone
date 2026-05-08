@@ -25,7 +25,7 @@
     "prettier": "^3.8.1"
   },
   "scripts": {
-    "dev": "node --env-file=.env server.js",
-    "start": "node --env-file=.env server.js"
-  }
+  "dev": "node --env-file=.env server.js",
+  "start": "node server.js"
+}
 }
