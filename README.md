@@ -3,6 +3,7 @@
 A full-stack blogging platform with role-based access control, built with **React** and **Express.js**.
 
 ## 🌐 Live Demo
+https://capstone-final-1.vercel.app/
 
 | Service  | URL |
 |----------|-----|
